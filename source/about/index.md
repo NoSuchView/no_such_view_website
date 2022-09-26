@@ -1,5 +1,6 @@
 ---
-title: Welcome to NoSuchView
+title: about
+layout: about
 ---
 
 - 👋 Hi, This is "No Such View", yea another new Podcast.
@@ -14,4 +15,3 @@ title: Welcome to NoSuchView
 - 💞️ Fell free to contact us:
   - E-Mail: NoSuchView@Outlook.com
   - Github: https://github.com/NoSuchView/
-
