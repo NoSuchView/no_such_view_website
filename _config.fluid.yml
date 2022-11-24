@@ -994,10 +994,40 @@ links:
   # Member item of page
   items:
     - {
-      title: "RSS",
-      intro: "使用泛用型客户端收听",
-      link: "https://anchor.fm/s/bbd2dc1c/podcast/rss",
-      avatar: "/img/rss.svg"
+      title: "Bilibili",
+      intro: "在 哔哩哔哩 收听",
+      link: "https://space.bilibili.com/1180256149",
+      avatar: "/img/bilibili.svg"
+    }
+    - {
+      title: "小宇宙",
+      intro: "账户锁定中",
+      link: "#",
+      avatar: "/img/xiaoyuzhou.svg"
+    }
+    - {
+      title: "喜马拉雅",
+      intro: "不支援 RSS 推播",
+      link: "#",
+      avatar: "/img/ximalaya.svg"
+    }
+    - {
+      title: "Apple Podcast",
+      intro: "在 Apple 播客 收听",
+      link: "https://podcasts.apple.com/us/podcast/no-such-view/id1647835805",
+      avatar: "/img/podcast.svg"
+    }
+    - {
+      title: "Google Podcast",
+      intro: "在 Google Podcast 收听",
+      link: "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iYmQyZGMxYy9wb2RjYXN0L3Jzcw",
+      avatar: "/img/google_podcasts.svg"
+    }
+    - {
+      title: "Amazon Music",
+      intro: "在 Audible 收听",
+      link: "https://music.amazon.com/podcasts/a2233932-6fea-426f-af12-c4d7871cd806",
+      avatar: "/img/audible.svg"
     }
     - {
       title: "Pocket Casts",
@@ -1012,40 +1042,10 @@ links:
       avatar: "https://s3.castbox.fm/webstatic/images/logo.c20be293.png"
     }
     - {
-      title: "Amazon Music",
-      intro: "在 Audible 收听",
-      link: "https://music.amazon.com/podcasts/a2233932-6fea-426f-af12-c4d7871cd806",
-      avatar: "/img/audible.svg"
-    }
-    - {
-      title: "Apple Podcast",
-      intro: "审核中...",
-      link: "https://podcasts.apple.com/us/podcast/no-such-view/id1647835805",
-      avatar: "/img/podcast.svg"
-    }
-    - {
-      title: "Google Podcast",
-      intro: "审核中...",
-      link: "#",
-      avatar: "/img/google_podcasts.svg"
-    }
-    - {
-      title: "Bilibili",
-      intro: "在 哔哩哔哩 收听",
-      link: "https://space.bilibili.com/1180256149",
-      avatar: "/img/bilibili.svg"
-    }
-    - {
-      title: "小宇宙",
-      intro: "审核未通过",
-      link: "#",
-      avatar: "/img/xiaoyuzhou.svg"
-    }
-    - {
-      title: "喜马拉雅",
-      intro: "不支援 RSS 推播",
-      link: "#",
-      avatar: "/img/ximalaya.svg"
+      title: "RSS",
+      intro: "使用泛用型客户端收听",
+      link: "https://anchor.fm/s/bbd2dc1c/podcast/rss",
+      avatar: "/img/rss.svg"
     }
 
   # 当成员头像加载失败时，替换为指定图片

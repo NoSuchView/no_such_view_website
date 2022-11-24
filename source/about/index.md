@@ -10,10 +10,8 @@ layout: about
 - 🌱 At leisure, let us waste some time. No more view, no more value, only talk nonsense.
 
 - 👀 Listen at (Special Thanks to [Anchor](https://anchor.fm/nosuchview) for Hosting.):
-  - RSS: https://anchor.fm/s/bbd2dc1c/podcast/rss
-  - Spotify: https://open.spotify.com/show/1vbZYgdcAb3gndEwC8Fhrr
-  - Pocket Cast: https://pca.st/uhhzb1vd
-  - More Platform: https://www.nosuchview.com/links/
+  - RSS Subscribe: https://anchor.fm/s/bbd2dc1c/podcast/rss
+  - Choose your favorite platform: https://www.nosuchview.com/links/
   
 - 💞️ Fell free to contact us:
   - E-Mail: NoSuchView@Outlook.com

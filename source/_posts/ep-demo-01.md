@@ -14,6 +14,6 @@ title: Ep -1. [Demo] 與昊哥聊聊近況，試放送
 
 但是那些都不重要，我們在一起聊天，記錄下這一美好，就夠了。希望你喜歡，算了，隨便吧哈哈哈。
 
-# [Listen Now](https://anchor.fm/nosuchview/episodes/Ep--1--Demo-e1ok2b4)
+# [Listen Now](https://www.bilibili.com/video/BV17e4y1H7Wf/)
 
 <iframe src="https://anchor.fm/nosuchview/embed/episodes/Ep--1--Demo-e1ok2b4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
